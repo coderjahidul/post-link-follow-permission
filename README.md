@@ -1,1 +1,0 @@
-# post-link-follow-permission
